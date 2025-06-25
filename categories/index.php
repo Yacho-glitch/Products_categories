@@ -32,6 +32,8 @@
                 }
                 ?>
         </table>
+        <a href="create.php" class="btn btn-primary">Create new category</a>
+        <a href="../index.php" class="btn btn-secondary">Back to home</a>
     </div>
 </body>
 </html>
